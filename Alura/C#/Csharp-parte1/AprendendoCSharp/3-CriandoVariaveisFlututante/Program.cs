@@ -10,7 +10,7 @@ namespace _3_CriandoVariaveisFlututante
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto  3 Criando variáveis ponto flutuante")
+            Console.WriteLine("Executando projeto  3 Criando variáveis ponto flutuante");
 
             double salario;
             salario = 1220.70;
