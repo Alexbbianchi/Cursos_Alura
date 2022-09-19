@@ -1,0 +1,7 @@
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csprojAssemblyReference.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

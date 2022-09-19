@@ -1,0 +1,7 @@
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe.config
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.pdb
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csprojAssemblyReference.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csproj.CoreCompileInputs.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.pdb

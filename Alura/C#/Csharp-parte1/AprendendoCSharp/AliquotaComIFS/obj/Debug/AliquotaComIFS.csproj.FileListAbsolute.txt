@@ -1,0 +1,7 @@
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\bin\Debug\AliquotaComIFS.exe.config
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\bin\Debug\AliquotaComIFS.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\bin\Debug\AliquotaComIFS.pdb
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\obj\Debug\AliquotaComIFS.csprojAssemblyReference.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\obj\Debug\AliquotaComIFS.csproj.CoreCompileInputs.cache
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\obj\Debug\AliquotaComIFS.exe
+C:\Users\alexssandro.bianchi\Documents\workspace-next\Alura\C#\Csharp-parte1\AprendendoCSharp\AliquotaComIFS\obj\Debug\AliquotaComIFS.pdb

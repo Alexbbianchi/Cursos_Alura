@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="region-print">
+        <h5>Meu teste</h5>
+    </div>
+
+    <input type="button" value="Imprimir" onclick="print()">
+    <script>
+        function print() {
+            var body = document.getElementById('region-print').innerHTML;
+            var myWindow = window.open('', '', 'width=auto, heigth=auto');
+            myWindow.document.write(`
+                <!DOCTYPE html>
+                    <html lang="en">
+                    <head>
+                        <meta charset="UTF-8">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <title>Document</title>
+                    </head>
+                    <body>
+                        ${body}
+                    </body>
+                </head>
+            `);
+            myWindow.document.close();
+            myWindow.print();
+        }
+    </script>
+</body>
+</html>
